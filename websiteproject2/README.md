@@ -22,7 +22,7 @@ define("DB_USER", "root");
 define("DB_PASSWORD", "root");</code></pre>
 
 ## Work cited
-https://www.youtube.com/watch?v=OpHGOa8aIDY&t=124s
-https://www.youtube.com/watch?v=37KohMnlP7Q
-https://www.youtube.com/playlist?list=PLf-O8h9sx5G9YsZ_k1_ThAL4HCQ-xy835
-https://code-boxx.com/simple-php-mysql-shopping-cart/
+- https://www.youtube.com/watch?v=OpHGOa8aIDY&t=124s
+- https://www.youtube.com/watch?v=37KohMnlP7Q
+- https://www.youtube.com/playlist?list=PLf-O8h9sx5G9YsZ_k1_ThAL4HCQ-xy835
+- https://code-boxx.com/simple-php-mysql-shopping-cart/
